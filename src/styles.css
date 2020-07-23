@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+form.emp-form{
+    background: grey;
+    border-radius: 4px;
+    padding: 10px;
+}
+div.validate-error{
+    color: red;
+    text-align: center;
+}
+button:hover,a.btn:hover{
+    cursor: pointer;
+}
